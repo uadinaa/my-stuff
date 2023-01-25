@@ -7,4 +7,5 @@ x = 5
 y = "Hello, world" # amazing 
 
 # here is the comment 
-# print("Dina is the best")
+# print("Dina is the best") 
+# it is gonna ignore the code because it is just a comment 

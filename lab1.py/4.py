@@ -4,19 +4,26 @@ print (x)
 print(y)
 
 
+
 z = 77
-z = "happy"
-print (z)
+z = "happy" #changing the meaning of z
+print (z) 
+
+
 
 p = 3.1415
-p = int(p)
+p = int(p) #convert the float to int
 print (p)
 
+
+
 print(type(p))
-print(type(z))
+print(type(z)) 
+
+
 
 K = 'unhappy'
 k = 'sun'
-
+#nothing wont change because 
 print(K)
 print(k)

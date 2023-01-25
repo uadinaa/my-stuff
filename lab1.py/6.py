@@ -6,6 +6,6 @@ print (x + y + z) #all words will be written as one word , or we just need to pu
 
 f = 6
 k = 9
-print(x + y) 
-print (f , k) # you can not combine a string and a number
+print(f + k) 
+print (f , k) # you can not combine a string and a number with + only with ,
 
